@@ -3,8 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},    
-     
+      "properties": {
+        "استان": "تهران"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -140,7 +141,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "استان": "البرز"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -259,7 +262,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 1
     }
   ]
 }
