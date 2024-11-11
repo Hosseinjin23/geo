@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "استان": "تهران",
+        "pr": "تهران",
         "Site code": ""
       },
       "geometry": {
@@ -143,7 +143,7 @@
     {
       "type": "Feature",
       "properties": {
-        "استان": "البرز",
+        "pr": "البرز",
         "Site code": ""
       },
       "geometry": {
