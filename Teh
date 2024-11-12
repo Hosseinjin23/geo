@@ -4,10 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "pr": "تهران",
-        "Site code": ""
+        "pr": "تهران"
       },
       "geometry": {
+      "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -143,10 +143,10 @@
     {
       "type": "Feature",
       "properties": {
-        "pr": "البرز",
-        "Site code": ""
+        "pr": "البرز"
       },
       "geometry": {
+      "type": "MultiPolygon",
         "coordinates": [
           [
             [
