@@ -7,7 +7,6 @@
         "pr": "تهران"
       },
       "geometry": {
-      "type": "MultiPolygon",
         "coordinates": [
           [
             [
@@ -146,7 +145,6 @@
         "pr": "البرز"
       },
       "geometry": {
-      "type": "MultiPolygon",
         "coordinates": [
           [
             [
